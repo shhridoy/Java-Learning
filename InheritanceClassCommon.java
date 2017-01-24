@@ -1,5 +1,5 @@
 package learn;
-/** Super Class  **/
+/**  Super Class  **/
 //It contains all common methods in the classes
 
 public class InheritanceClassCommon {
