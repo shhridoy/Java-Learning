@@ -8,10 +8,11 @@ public class TmeConversion {
      */
     public static void main(String[] args) {
         
-        MyClass object = new MyClass();
-        MyClass object1 = new MyClass(3);
-        MyClass object2 = new MyClass(4, 56);
-        MyClass object3 = new MyClass(2, 34, 45);
+        TmeConversionClass object = new TmeConversionClass();
+        TmeConversionClass object1 = new TmeConversionClass(3);
+        TmeConversionClass object2 = new TmeConversionClass(4, 56);
+        TmeConversionClass object3 = new TmeConversionClass(2, 34, 45);
+        
         System.out.printf("%s\n", object.toMilitary());
         System.out.printf("%s\n", object1.toMilitary());
         System.out.printf("%s\n", object2.toMilitary());
