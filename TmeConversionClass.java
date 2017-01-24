@@ -5,24 +5,24 @@ package tmeconversion;
  *
  * @author SH Hridoy
  */
-public class MyClass {
+public class TmeConversionClass {
     private int hour;
     private int minute;
     private int second;
     
-    public MyClass(){
+    public TmeConversionClass(){
         this(0,0,0);
     }
     
-    public MyClass(int h){
+    public TmeConversionClass(int h){
         this(h,0,0);
     }
     
-    public MyClass(int h, int m){
+    public TmeConversionClass(int h, int m){
         this(h,m,0);
     }
     
-    public MyClass(int h, int m, int s){
+    public TmeConversionClass(int h, int m, int s){
         setTime(h, m, s);
     }
     
