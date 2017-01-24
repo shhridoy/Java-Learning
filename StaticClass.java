@@ -3,7 +3,8 @@ package learn;
 public class StaticClass {
     private String first;
     private String last;
-    private static int members = 0;
+    private static int members = 0; //Static member variable
+    
     
     public StaticClass(String ft, String lt){
         first = ft;
