@@ -13,3 +13,7 @@ public class Static {
         
     }
 }
+
+/** Static member function and variable can be call without creating object
+    
+    It always update when a new object is created. It holds it's last value. **/
