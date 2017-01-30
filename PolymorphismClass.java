@@ -7,3 +7,4 @@ public class PolymorphismClass extends PolymorphismClassFood{
     }
     
 }
+
