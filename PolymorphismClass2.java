@@ -6,3 +6,4 @@ public class PolymorphismClass2 extends PolymorphismClassFood{
         System.out.println("This Class 2 food is great.");
     }
 }
+
