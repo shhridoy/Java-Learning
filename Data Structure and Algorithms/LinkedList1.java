@@ -18,3 +18,10 @@ public class LinkedList1 {
         } 
     }
 }
+
+/* Output:
+5
+7
+9
+11
+*/
