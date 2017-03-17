@@ -24,3 +24,11 @@ public class LinkedListEx2 {
         } 
     }
 }
+
+/* OUTPUT:
+ID  Name  Author  Publisher  Quantity
+
+101 Learn C Balagurushwamy BPB 8
+102 Introducing C++ K.M. Niton Niton computing 4
+103 Java Programing Hilbert Wiley 6
+*/
