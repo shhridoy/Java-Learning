@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-public class RadioButtonGUIClass extends JFrame{
+class RadioButtonGUIClass extends JFrame{
     private JTextField tf;
     private Font pf;
     private Font bf;
