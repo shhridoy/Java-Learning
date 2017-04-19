@@ -71,6 +71,7 @@ public class GUITextPassHandler {
          
         GUI_EventHandlerClass obj = new GUI_EventHandlerClass();
         obj.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        obj.setLocationRelativeTo(null); // show JFrame on middle point of screen
         obj.setSize(350, 100);
         obj.setVisible(true);
     }
