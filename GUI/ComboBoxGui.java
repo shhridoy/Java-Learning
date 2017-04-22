@@ -54,6 +54,7 @@ public class ComboBoxGui{
        ComboBoxFrame ob = new ComboBoxFrame();
        ob.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
        ob.setSize(350, 150);
+       ob.setLocationRelativeTo(null); // to show Frame at middle of window
        ob.setVisible(true);
       
    }
