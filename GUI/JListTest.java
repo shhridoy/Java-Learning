@@ -1,4 +1,3 @@
-
 import java.awt.Color;
 import java.awt.FlowLayout;
 import javax.swing.JFrame;
@@ -36,7 +35,6 @@ class ListFrame extends JFrame{
 }
 
 public class JListTest {
-
     
     public static void main(String[] args) {
         
@@ -47,5 +45,4 @@ public class JListTest {
         lstfrm.setVisible(true);
         
     }
-    
 }
