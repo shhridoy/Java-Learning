@@ -1,8 +1,8 @@
-**1. Write a program that inputs one number consisting of five digits from the user, 
+/*1. Write a program that inputs one number consisting of five digits from the user, 
 separates the number into its individual digits and prints the digits separated from one another by three spaces each. 
 For example, if the user types in the number 42339, the program should print **
     4   2   3   3   9
-    
+*/
 
 import java.util.Scanner;
 
