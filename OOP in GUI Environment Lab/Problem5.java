@@ -10,7 +10,7 @@ display the new balance and determine whether the new balance exceeds the custom
 For those customers whose credit limit is exceeded, the program should display the message "Credit limit exceeded".
 */
 
-public class CLC {
+class CLC {
    
     private int accountNo;
     private int bgnBalance;
