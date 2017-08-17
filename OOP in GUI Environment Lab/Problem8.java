@@ -13,7 +13,7 @@ public class Problem8 {
     public static void main(String[] args) {
         
         while (true) {
-            System.out.print("Please Enter a number of 5 digit: ");
+            print("Please Enter a number of 5 digit: ");
             int palindrome = sc.nextInt();
         
             // FIRST WAY
