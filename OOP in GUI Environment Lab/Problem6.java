@@ -14,7 +14,7 @@ that salesperson’s earnings. There’s no limit to the number of items that ca
 
 import java.util.Scanner;
 
-public class SCC {
+class SCC {
    
     private int item[];
     private double value[];
