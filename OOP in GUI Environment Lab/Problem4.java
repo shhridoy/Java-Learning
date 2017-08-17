@@ -5,7 +5,7 @@ day and year separated by forward slashes (/).
 Write a program named DateTest that demonstrates class Date’s capabilities.
 */
 
-public class Date {
+class Date {
    
     private int month, day, year;
 
