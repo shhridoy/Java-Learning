@@ -43,7 +43,7 @@ class SCC {
     
 }
 
-public class DateTest {
+public class Problem6 {
     
     private static Scanner sc = new Scanner(System.in);
 
