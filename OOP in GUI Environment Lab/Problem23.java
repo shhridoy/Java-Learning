@@ -4,7 +4,7 @@ twice—once in all uppercase letters and once in all lowercase letters.
 
 import java.util.Scanner;
 
-public class Problem11 {
+public class Problem23 {
     
     private static Scanner input = new Scanner(System.in);
 
