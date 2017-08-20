@@ -5,7 +5,7 @@ For example, the three-letter words produced from the word “bathe” include �
 
 import java.util.Scanner;
 
-public class Problem11 {
+public class Problem26 {
     
     private static Scanner input = new Scanner(System.in);
 
