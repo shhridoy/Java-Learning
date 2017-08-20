@@ -63,7 +63,7 @@ class Rectangle {
     }
 }
 
-public class Problem11 {
+public class Problem12 {
     
     private static Scanner input = new Scanner(System.in);
 
