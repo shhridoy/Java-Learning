@@ -19,7 +19,15 @@ public class Problem11 {
         
         int in = text.indexOf(ch);
         
-        System.out.println("Number of matches is: "+in);
+        System.out.print("Character found at position: ");
+	for (int i=0; i<text.length(); i++) {
+            if (text.charAt(i) == ch) {
+                match++;
+                System.out.print(i+"  ");
+            }
+        }
+        
+        System.out.println("\nNumber of matches occured: "+match);
 	
     }
     
@@ -27,8 +35,9 @@ public class Problem11 {
 
 */ OUTPUT:
 Enter your text here
-hi there
+Shahin
 Enter your search character
-t
-Number of matches is: 3
+h
+Character found at position: 1  3  
+Number of matches occured: 2
 */
